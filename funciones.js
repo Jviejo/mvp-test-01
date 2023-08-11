@@ -18,7 +18,13 @@ function getArray(inicio, fin) {
     return array;
 }
 
+function calculoImporte(cantidad , precio, porcentajeDescuento) {
 
+}
+
+function filtroNumeroPares(array) {
+
+}
 
 module.exports = {
     suma, resta, isPar, getArray
